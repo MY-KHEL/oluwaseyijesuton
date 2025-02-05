@@ -7,7 +7,7 @@ export const about = [
         buttonText: "WORK WITH OLUWASEYI",
         hasSecondButton: false,
         secondButtonText: '',
-        imageLink:'/src/assets/image7.JPG',
+        imageLink:'/public/assets/image7.JPG',
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ export const about = [
         buttonText: "READ MORE",
         hasSecondButton: false,
         secondButtonText: '',
-        imageLink:'/src/assets/image1.JPG',
+        imageLink:'/public/assets/image1.JPG',
     },
     {
         id: 3,
@@ -27,6 +27,6 @@ export const about = [
         buttonText: "ACCESS TRAINING AND RESOURCES",
         hasSecondButton:true,
         secondButtonText: 'BOOK 1 ON 1 COACHING',
-        imageLink:'/src/assets/image6.JPG',
+        imageLink:'/public/assets/image6.JPG',
     },
 ]
