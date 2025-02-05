@@ -7,7 +7,7 @@ export const about = [
         buttonText: "WORK WITH OLUWASEYI",
         hasSecondButton: false,
         secondButtonText: '',
-        imageLink:'/src/assets/image7.LPG',
+        imageLink:'/src/assets/image7.JPG',
     },
     {
         id: 2,
