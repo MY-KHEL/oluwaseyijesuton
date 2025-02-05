@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-projectteal: #008080;
+  --color-projectwhite: #FBF7F7;
+  --color-bermuda: #78dcca;
+  --color-projectblack: #000000;
+  --color-iconsgrey: #D9D9D9;
+}
+p {
+  white-space: pre-line;
+}
