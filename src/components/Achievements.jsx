@@ -1,4 +1,4 @@
-import image from '/src/assets/image1.jpg'
+import image from '/src/assets/image1.JPG'
 const Achievement = () => {
     return ( 
     <>
