@@ -7,7 +7,8 @@ export const about = [
         buttonText: "WORK WITH OLUWASEYI",
         hasSecondButton: false,
         secondButtonText: '',
-        imageLink:'/assets/image7.JPG',
+        imageLink:'/assets/image6.jpg',
+        buttonLink:'mailto:oluwaseyijesuton@gmail.com'
     },
     {
         id: 2,
@@ -18,6 +19,7 @@ export const about = [
         hasSecondButton: false,
         secondButtonText: '',
         imageLink:'/assets/image1.JPG',
+        buttonLink:''
     },
     {
         id: 3,
@@ -27,6 +29,8 @@ export const about = [
         buttonText: "ACCESS TRAINING AND RESOURCES",
         hasSecondButton:true,
         secondButtonText: 'BOOK 1 ON 1 COACHING',
-        imageLink:'/assets/image7.JPG',
+        secondButtonLink: 'https://tinyurl.com/oluwaseyijesuton',
+        imageLink:'/assets/image7.jpg',
+        buttonLink:'https://multiplyimpaqtacademy.selar.co'
     },
 ]

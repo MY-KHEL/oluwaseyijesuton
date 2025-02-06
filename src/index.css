@@ -7,6 +7,22 @@
   --color-projectblack: #000000;
   --color-iconsgrey: #D9D9D9;
 }
+
+@font-face {
+  font-family: 'Ahganirya';
+  src: url('/fonts/Ahganirya.otf')
+      format('opentype');
+  font-weight: 200;  
+  line-height: 2rem;
+}
+
 p {
   white-space: pre-line;
+}
+
+/* body{
+  font-family: 'Ahganirya';
+} */
+.heading{
+  font-family: 'Ahganirya';
 }
